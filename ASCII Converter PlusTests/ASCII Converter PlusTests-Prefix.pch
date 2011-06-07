@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ASCII Converter PlusTests' target in the 'ASCII Converter PlusTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
